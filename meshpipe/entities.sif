@@ -1,0 +1,34 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = outer
+End
+
+Body 2
+  Name = core
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = outerin
+End
+
+Boundary Condition 2
+  Name = outside
+End
+
+Boundary Condition 3
+  Name = outerout
+End
+
+Boundary Condition 4
+  Name = innerinlet
+End
+
+Boundary Condition 5
+  Name = innershell
+End
+
+Boundary Condition 6
+  Name = inneroutlet
+End
+

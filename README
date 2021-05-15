@@ -1,0 +1,16 @@
+Start in Salome with Study1.hdf
+created circles using primatives
+created path by creating points then connecting with a curve
+extruded circles along path
+partitioned outer tube with inner tube
+exploded tubes to get faces
+meshed
+use group on geometry to group volume elements and faces
+exported unv groups become boundaries and bodies
+used ElmerGrid to convert to ElmerMesh
+used ElmerGUI to view bodies and boundaries and create intital sif file
+edited sif file to make more specific
+post process in paraview
+
+
+

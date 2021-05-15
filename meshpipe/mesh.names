@@ -1,0 +1,10 @@
+! ----- names for bodies -----
+$ outer = 1
+$ core = 2
+! ----- names for boundaries -----
+$ outerin = 1
+$ outside = 2
+$ outerout = 3
+$ innerinlet = 4
+$ innershell = 5
+$ inneroutlet = 6

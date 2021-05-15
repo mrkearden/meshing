@@ -1,0 +1,4 @@
+ElmerGrid 8 2 meshpipe.unv -increase -autoclean
+ElmerSolver case.sif
+
+
